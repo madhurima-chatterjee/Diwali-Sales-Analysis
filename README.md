@@ -1,10 +1,10 @@
 # Diwali-Sales-Analysis
-Overview:
+# Overview:
 This repository contains the code and resources for analyzing Diwali sales data using Python and creating an interactive dashboard with Power BI. 
 Diwali is one of the biggest festivals in India, and analyzing sales data around this time can provide valuable insights for businesses.
 
 
-Contents:
+# Contents:
 
 Diwali Sales Data.csv: Contains the raw sales data used for analysis.
 
@@ -17,7 +17,7 @@ DS_Dashboard.pdf: Dashboard Overview.
 README.md: You are here!
 
 
-Analysis Steps:
+# Analysis Steps:
 
 1. Data Preprocessing: Cleaned and prepared the raw sales data for analysis.
 
@@ -30,7 +30,7 @@ Analysis Steps:
 5. Dashboard Creation: Developed an interactive dashboard using Power BI to provide stakeholders with a comprehensive view of the sales data.
 
 
-How to Use:
+# How to Use:
 
 Clone this repository to your local machine.
 
@@ -41,17 +41,17 @@ Run the Python scripts in the scripts/ directory sequentially to perform data an
 Open diwali_sales_dashboard.pbix using Power BI Desktop to explore the interactive dashboard.
 
 
-Insights:
+# Insights:
 Sales peak around the Diwali period, indicating increased consumer spending during the festival.
 Certain products show higher demand during Diwali, suggesting potential marketing opportunities.
 Regional variations in sales patterns can be observed, highlighting the importance of localized marketing strategies.
 
 
-Future Improvements:
+# Future Improvements:
 Incorporate more advanced machine learning techniques for sales forecasting.
 Enhance the dashboard with additional interactive features and drill-down capabilities.
 Integrate real-time data sources for live monitoring of sales during Diwali.
 
 
-Contributor:
+# Contributor:
 Madhurima Chatterjee :) 
