@@ -6,15 +6,15 @@ Diwali is one of the biggest festivals in India, and analyzing sales data around
 
 # Contents:
 
-Diwali Sales Data.csv: Contains the raw sales data used for analysis.
+`Diwali Sales Data.csv/`: Contains the raw sales data used for analysis.
 
-Diwali-Sales-Analysis.ipynb: Python scripts for data preprocessing, analysis, and visualization.
+`Diwali-Sales-Analysis.ipynb/`: Python scripts for data preprocessing, analysis, and visualization.
 
-DS_Dashboard.pbix: Power BI dashboard file.
+`DS_Dashboard.pbix/`: Power BI dashboard file.
 
-DS_Dashboard.pdf: Dashboard Overview.
+`DS_Dashboard.pdf/`: Dashboard Overview.
 
-README.md: You are here!
+`README.md/`: You are here!
 
 
 # Analysis Steps:
