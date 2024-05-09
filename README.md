@@ -16,16 +16,24 @@ DS_Dashboard.pdf: Dashboard Overview.
 README.md: You are here!
 
 Analysis Steps:
-Data Preprocessing: Cleaned and prepared the raw sales data for analysis.
-Exploratory Data Analysis (EDA): Investigated trends, patterns, and anomalies in the data.
-Sales Forecasting: Used Python libraries like Pandas and scikit-learn to forecast sales for the Diwali period.
-Visualization: Created visualizations using Matplotlib and Seaborn to represent sales trends, product performance, etc.
-Dashboard Creation: Developed an interactive dashboard using Power BI to provide stakeholders with a comprehensive view of the sales data.
+
+1. Data Preprocessing: Cleaned and prepared the raw sales data for analysis.
+
+2. Exploratory Data Analysis (EDA): Investigated trends, patterns, and anomalies in the data.
+
+3. Sales Forecasting: Used Python libraries like Pandas and scikit-learn to forecast sales for the Diwali period.
+
+4. Visualization: Created visualizations using Matplotlib and Seaborn to represent sales trends, product performance, etc.
+
+5. Dashboard Creation: Developed an interactive dashboard using Power BI to provide stakeholders with a comprehensive view of the sales data.
 
 How to Use:
 Clone this repository to your local machine.
+
 Install the required Python libraries listed in requirements.txt.
+
 Run the Python scripts in the scripts/ directory sequentially to perform data analysis.
+
 Open diwali_sales_dashboard.pbix using Power BI Desktop to explore the interactive dashboard.
 
 Insights:
